@@ -12,3 +12,4 @@ Favor focus over features
 Avoid administrative distraction
 Design for failure
 Keep it logically awesome
+Life is what happens when you're busy making other plans.
